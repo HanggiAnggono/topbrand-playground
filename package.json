@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
-  "homepage": "https://hanggianggono.github.io/topbrand-playground",
+  "homepage": "https://hanggianggono.github.io",
   "keywords": [
     "react",
     "starter"
@@ -31,7 +31,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "browserslist": [
     ">0.2%",
