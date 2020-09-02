@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/topbrand-playground/static/css/main.9b1431d8.chunk.css",
+    "main.js": "/topbrand-playground/static/js/main.b130fcc9.chunk.js",
+    "main.js.map": "/topbrand-playground/static/js/main.b130fcc9.chunk.js.map",
+    "runtime~main.js": "/topbrand-playground/static/js/runtime~main.82d360b6.js",
+    "runtime~main.js.map": "/topbrand-playground/static/js/runtime~main.82d360b6.js.map",
+    "static/js/2.bd72010e.chunk.js": "/topbrand-playground/static/js/2.bd72010e.chunk.js",
+    "static/js/2.bd72010e.chunk.js.map": "/topbrand-playground/static/js/2.bd72010e.chunk.js.map",
+    "index.html": "/topbrand-playground/index.html",
+    "precache-manifest.5cfb8b171ed828ae1aa00b03f8e07502.js": "/topbrand-playground/precache-manifest.5cfb8b171ed828ae1aa00b03f8e07502.js",
+    "service-worker.js": "/topbrand-playground/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "/topbrand-playground/static/css/main.9b1431d8.chunk.css.map",
+    "static/media/GraphQLLanguageService.js.flow": "/topbrand-playground/static/media/GraphQLLanguageService.js.5ab204b9.flow",
+    "static/media/autocompleteUtils.js.flow": "/topbrand-playground/static/media/autocompleteUtils.js.4ce7ba19.flow",
+    "static/media/getAutocompleteSuggestions.js.flow": "/topbrand-playground/static/media/getAutocompleteSuggestions.js.7f98f032.flow",
+    "static/media/getDefinition.js.flow": "/topbrand-playground/static/media/getDefinition.js.4dbec62f.flow",
+    "static/media/getDiagnostics.js.flow": "/topbrand-playground/static/media/getDiagnostics.js.65b0979a.flow",
+    "static/media/getHoverInformation.js.flow": "/topbrand-playground/static/media/getHoverInformation.js.d9411837.flow",
+    "static/media/getOutline.js.flow": "/topbrand-playground/static/media/getOutline.js.c04e3998.flow",
+    "static/media/index.js.flow": "/topbrand-playground/static/media/index.js.02c24280.flow",
+    "static/media/logo.png": "/topbrand-playground/static/media/logo.57ee3b60.png"
+  }
+}
