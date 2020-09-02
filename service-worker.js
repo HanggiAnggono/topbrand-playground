@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/topbrand-playground/precache-manifest.ea9893d79d0e7f02767dedeb33623aaa.js"
+  "/topbrand-playground/precache-manifest.5cfb8b171ed828ae1aa00b03f8e07502.js"
 );
 
 self.addEventListener('message', (event) => {
